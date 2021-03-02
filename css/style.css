@@ -11,6 +11,14 @@ body {
   height: 100vh;
   font-family: "Kumbh Sans", sans-serif;
 }
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: whitesmoke;
+}
 .nums {
   font-size: 18px;
   font-weight: bolder;
